@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore model files
+*.h5
+*.pt
+*.pth
+*.pkl
+model/
+
+# Ignore Excel files
+*.xlsx
+*.xls
+*.csv
+
+# Ignore cache / temp
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
